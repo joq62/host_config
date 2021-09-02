@@ -1,0 +1,24 @@
+ [{alias,"asus_lgh"},
+ {host_id,"joq62-X550CA"},{ip,"192.168.0.100"},{ssh_port,22},
+ {uid,"joq62"},{pwd,"festum01"}].
+[{alias,"asus_varmdo"},
+ {host_id,"joq62-X550CA"},{ip,"192.168.1.50"},{ssh_port,22},
+ {uid,"joq62"},{pwd,"festum01"}].
+[{alias,"c0_lgh"},
+ {host_id,"c0"},{ip,"192.168.0.200"},{ssh_port,22},
+ {uid,"joq62"},{pwd,"festum01"}].
+[{alias,"c0_varmdo"},
+ {host_id,"c0"},{ip,"192.168.1.200"},{ssh_port,22},
+ {uid,"joq62"},{pwd,"festum01"}].
+[{alias,"c1_lgh"},
+ {host_id,"c1"},{ip,"192.168.0.201"},{ssh_port,22},
+ {uid,"joq62"},{pwd,"festum01"}].
+[{alias,"c1_varmdo"},
+ {host_id,"c1"},{ip,"192.168.1.201"},{ssh_port,22},
+ {uid,"joq62"},{pwd,"festum01"}].
+[{alias,"c2_lgh"},
+ {host_id,"c2"},{ip,"192.168.0.202"},{ssh_port,22},
+ {uid,"joq62"},{pwd,"festum01"}].
+[{alias,"c2_varmdo"},
+ {host_id,"c2"},{ip,"192.168.1.202"},{ssh_port,22},
+ {uid,"joq62"},{pwd,"festum01"}].

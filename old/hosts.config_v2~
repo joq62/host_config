@@ -1,0 +1,6 @@
+[{host_id,"joq62-X550CA"},{ip,"192.168.1.50"},{ssh_port,22},
+ {uid,"joq62"},{pwd,"festum01"},
+ {geo_location,"varmdo"}].
+[{host_id,"c1"},{ip,"192.168.1.201"},{ssh_port,22},
+ {uid,"joq62"},{pwd,"festum01"},
+ {geo_location,"varmdo"}].
